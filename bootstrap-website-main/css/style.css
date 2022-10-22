@@ -42,7 +42,7 @@ body {
 }
 
 .custom_dark-btn {
-  background-color: #000000;
+  background-color: #263C90;
 }
 
 .custom_dark-btn:hover {
@@ -259,12 +259,12 @@ a:focus {
 
 .slider_section .custom_carousel-control .carousel-control-prev {
   background-image: url(../images/prev.png);
-  background-color: #fc5d35;
+  background-color: #EE6624;
 }
 
 .slider_section .custom_carousel-control .carousel-control-next {
   background-image: url(../images/next.png);
-  background-color: #000000;
+  background-color: #263C90;
 }
 
 /* end slider section */
