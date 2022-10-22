@@ -46,8 +46,8 @@ body {
 }
 
 .custom_dark-btn:hover {
-  border: 1px solid #000000;
-  color: #000000;
+  border: 1px solid #263C90;
+  color: #263C90;
   background-color: transparent;
 }
 
@@ -214,8 +214,9 @@ a:focus {
 
 .slider_item-detail h1 {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 50px;
   width: 95%;
+
 }
 
 .slider_item-detail p {
@@ -499,6 +500,26 @@ a:focus {
 
 .footer_section a {
   color: #191818;
+}
+.shape {
+  
+  /* padding-left: 1600px; */
+  position: absolute;
+  
+  top: 1px;
+ left: 1px;
+ 
+
+}
+.shape1 {
+  
+  /* padding-left: 1600px; */
+  position: absolute;
+  
+  top: 581px;
+  right: 1px;
+ 
+
 }
 
 /* end footer section*/
