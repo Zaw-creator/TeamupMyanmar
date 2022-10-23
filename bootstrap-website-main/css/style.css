@@ -288,7 +288,13 @@ a:focus {
 
 }
 
-.service_section .card::after {
+.card:hover{
+  transform: scale(1.05);
+  transition: all 0.5s;
+  box-shadow: 1px 1px 2px 2px #263C90;
+}
+
+/* .service_section .card::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -308,7 +314,7 @@ a:focus {
 
 .service_section .card:hover::after {
   background-color: #fc5d35;
-}
+} */
 
 /* end service section */
 
