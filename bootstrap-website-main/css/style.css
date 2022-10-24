@@ -558,5 +558,9 @@ color: white;
 .clr{
   clear: both;
 }
+.spe-img{
+  width: 40px;
+  margin: 55px auto 5px auto;
+}
 
 /* end footer section*/
