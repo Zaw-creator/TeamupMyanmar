@@ -407,12 +407,12 @@ a:focus {
 
 /* contact section */
 
-.contact_section {
+/* .contact_section {
   background-image: url(../images/orange-dish.png);
   background-repeat: no-repeat;
   background-size: 215px;
   background-position: right center;
-}
+} */
 
 .contact_section input {
   border: none;
@@ -562,5 +562,15 @@ color: white;
   width: 40px;
   margin: 55px auto 5px auto;
 }
+.icon{
+  float: left;
+ }
+ 
+ 
+ .icon ul li {
+ 
+ list-style-type: none;
+ 
+ }
 
 /* end footer section*/
