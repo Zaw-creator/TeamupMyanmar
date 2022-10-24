@@ -538,6 +538,25 @@ a:focus {
 margin-left: 370px;
 color: white;
 
+} 
+
+.main-block{
+  float: left;
+  width: 60%;
+  padding: 10px;
+
+}
+.side-bar{
+  margin-top: 10px;
+  float: right;
+  width: 40%;
+  color: black;
+  padding: 90px 20px;
+  margin-bottom: 10px;
+
+}
+.clr{
+  clear: both;
 }
 
 /* end footer section*/
