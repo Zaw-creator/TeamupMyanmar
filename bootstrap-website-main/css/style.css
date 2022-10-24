@@ -527,5 +527,17 @@ a:focus {
  
 
 }
+.container1 {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container1 h1{
+margin-left: 370px;
+color: white;
+
+}
 
 /* end footer section*/
