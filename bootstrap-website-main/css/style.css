@@ -414,6 +414,17 @@ a:focus {
   background-position: right center;
 } */
 
+.icon{
+  float: left;
+ }
+ 
+ 
+ .icon ul li {
+ 
+ list-style-type: none;
+ 
+ }
+
 .contact_section input {
   border: none;
   outline: none;
@@ -562,15 +573,6 @@ color: white;
   width: 40px;
   margin: 55px auto 5px auto;
 }
-.icon{
-  float: left;
- }
- 
- 
- .icon ul li {
- 
- list-style-type: none;
- 
- }
+
 
 /* end footer section*/
