@@ -536,8 +536,11 @@ a:focus {
   
   top: 581px;
   right: 1px;
- 
-
+}
+.shape2{
+  position: absolute;
+  top: 1px;
+  right: 1px;
 }
 .container1 {
   width: 100%;
